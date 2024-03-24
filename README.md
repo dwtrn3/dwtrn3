@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi there, I'm Adwait 👋 </h2>
-<p>A driven Product Manager, blending coding expertise with business acumen to drive product innovation and deliver impactful solutions. An amateur programmer, specializing in web applications and APIs, I ensure seamless delivery of digital solutions by collaborating across cross-functional teams building web applications with Python (Django), HTML, CSS and  JavaScript. Continuously attuned to industry trends, I cultivate innovation to meet evolving needs. 
-</p>
+<img src="https://res.cloudinary.com/ddhxwfbaj/image/upload/v1711289551/IMG_7624_s7uynr.jpg" alt="Alt text" width="300px">
+<h2>Hi, I'm Adwait 👋 </h2>
+<p>As a Product Manager, I blend coding know-how with business sense to drive product innovation and deliver impactful outcomes. Specializing in web applications and APIs, I ensure seamless delivery of digital solutions by collaborating across diverse teams. I lead web app development using Python (Django), HTML, CSS, and JavaScript. Continuously staying updated on industry trends, I foster innovation to meet evolving needs.</p>
 </div>
